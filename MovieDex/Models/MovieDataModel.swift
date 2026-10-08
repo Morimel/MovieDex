@@ -47,7 +47,7 @@ struct Movie: MDBItem {
         if let posterPath = posterPath {
             return posterPath
         } else {
-            return nil
+            return nil 
         }
     }
     
