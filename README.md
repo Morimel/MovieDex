@@ -189,7 +189,9 @@ Managed with **Swift Package Manager**:
 ---
 
 
-<video src="https://github.com/user-attachments/assets/07bc1ba1-1578-4d20-a23a-5371813f25a8" width="100%"></video>
+<p align="center">
+ <img width="800" height="1738" alt="simulator-screen-recording-iphone-17-pro-max-2026-10-09-at-151922_nIzsCVXZ-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b84ab53b-356d-439a-bbd3-ddf60f9ad3d6" />
+</p>
 
 
 <p align="center">Made with ❤️ and lots of 🍿 · Data from <a href="https://www.themoviedb.org/">TMDB</a></p>
