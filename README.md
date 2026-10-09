@@ -188,4 +188,8 @@ Managed with **Swift Package Manager**:
 
 ---
 
+
+<video src="https://github.com/user-attachments/assets/07bc1ba1-1578-4d20-a23a-5371813f25a8" width="100%"></video>
+
+
 <p align="center">Made with ❤️ and lots of 🍿 · Data from <a href="https://www.themoviedb.org/">TMDB</a></p>
